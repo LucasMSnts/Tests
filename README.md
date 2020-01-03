@@ -3,5 +3,5 @@
 Testes nos códigos (Backend, Frontend e mobile) utilizando Jest
 
 - [x] NodeJS
-- [ ] ReactJS
+- [x] ReactJS
 - [ ] React Native
